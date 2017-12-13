@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MCQ</string>
+
+    <string name="q1">1. What is APK in android?</string>
+    <string name="q11">A) Android Packages</string>
+    <string name="q12">B) Android Pack</string>
+    <string name="q13">C) Android Packaging Kit</string>
+    <string name="q14">D) None of the above</string>
+
+    <string name="q2">2. Which of the following are valid interfaces?</string>
+    <string name="q21">A) OnCLickListener</string>
+    <string name="q22">B) OnCheckedChangeListener</string>
+    <string name="q23">C) OnSetListener</string>
+    <string name="q24">D) OnTouchListener</string>
+
+    <string name="q3">3. Which of the following are functions of TextView?</string>
+    <string name="q31">A) setText</string>
+    <string name="q32">B) setName</string>
+    <string name="q33">C) appText</string>
+    <string name="q34">D) setBackground</string>
+
+    <string name="q4">4. Which of the following functions are part of Android LifeCycle?</string>
+    <string name="q41">A) onStart</string>
+    <string name="q42">B) onPLay</string>
+    <string name="q43">C) onResume</string>
+    <string name="q44">D) onStop</string>
+
+    <string name="q5">5. Which of the following are layouts of Android?</string>
+    <string name="q51">A) FrameLayout</string>
+    <string name="q52">B) RelativeLayout</string>
+    <string name="q53">C) LinearLayout</string>
+    <string name="q54">D) GridLayout</string>
+
+    <string name="q6">6.  When the activity is not in focus, but still visible on the screen it is in?</string>
+    <string name="q61">A) running state</string>
+    <string name="q62">B) paused state</string>
+    <string name="q63">C) destroyed state</string>
+    <string name="q64">D) stopped state</string>
+
+    <string name="ans">(1)-C   (2)-A,B,D   (3)-A,D   (4)-A,C,D   (5)-A,B,C,D</string>
+</resources>

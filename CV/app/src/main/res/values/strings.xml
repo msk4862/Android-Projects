@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CV</string>
+    <string name="name">MOHD SHOAIB ASGAR</string>
+    <string name="desig">Student of Computer Science at Hansraj College</string>
+    <string name="dob">D.O.B.: 4 JUNE 1999</string>
+    <string name="age">AGE: 18</string>
+    <string name="email">E-mail: msk4862@gmail.com</string>
+
+</resources>

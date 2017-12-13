@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+
+    <string-array name="course">
+
+        <item>Select Country</item>
+        <item>Afghanistan</item>
+        <item>Bahrain</item>
+        <item>China</item>
+        <item>Denmark</item>
+        <item>Egypt</item>
+        <item>France</item>
+        <item>Georgia</item>
+        <item>India</item>
+        <item>Iran</item>
+        <item>New Zealand</item>
+
+
+    </string-array>
+</resources>

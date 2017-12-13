@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="name">UserName</string>
+    <string name="pass">Password</string>
+    <string name="show">SHOW</string>
+    <string name="login">LOG IN</string>
+    <string name="title">Log in</string>
+
+    <string-array name="country">
+
+        <item>Select Country</item>
+        <item>Afghanistan</item>
+        <item>Bahrain</item>
+        <item>China</item>
+        <item>Denmark</item>
+        <item>Egypt</item>
+        <item>France</item>
+        <item>Georgia</item>
+        <item>India</item>
+        <item>Iran</item>
+        <item>New Zealand</item>
+
+
+    </string-array>
+</resources>
